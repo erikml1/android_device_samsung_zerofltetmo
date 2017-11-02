@@ -30,7 +30,7 @@ TARGET_OTA_ASSERT_DEVICE := zerofltetmo,zeroflte
 TARGET_SPECIFIC_HEADER_PATH += device/samsung/zerofltetmo/include
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineageos_zerofltetmo_defconfig
+TARGET_KERNEL_CONFIG := lineageos_zerofltecan_defconfig
 
 # Partitions
 BOARD_SYSTEMIMAGE_PARTITION_SIZE := 3879731200
