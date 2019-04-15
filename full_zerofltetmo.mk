@@ -34,3 +34,4 @@ PRODUCT_DEVICE := zeroflte
 PRODUCT_BRAND := Samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_MODEL := SM-G920T
+BUILD_FINGERPRINT := "samsung/zerofltetmo/zerofltetmo:7.0/NRD90M/G920TUVS6FRC1:user/release-keys"
